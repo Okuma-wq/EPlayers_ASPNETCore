@@ -36,3 +36,4 @@ C:\Users\pedro\Desktop\Projetos\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPla
 C:\Users\pedro\Desktop\Projetos\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.csproj.CopyComplete
 C:\Users\pedro\Desktop\Projetos\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
 C:\Users\pedro\Desktop\Projetos\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Noticia\Index.cshtml.g.cs
+C:\Users\pedro\Desktop\Projetos\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Jogador\Index.cshtml.g.cs
