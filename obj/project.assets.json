@@ -8,24 +8,31 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\pedro\\.nuget\\packages\\": {}
+    "C:\\Users\\FIC\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\EPlayers_ASPNETCore.csproj",
+      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\EPlayers_ASPNETCore.csproj",
       "projectName": "EPlayers_ASPNETCore",
-      "projectPath": "C:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\EPlayers_ASPNETCore.csproj",
-      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\obj\\",
+      "projectPath": "C:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\EPlayers_ASPNETCore.csproj",
+      "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

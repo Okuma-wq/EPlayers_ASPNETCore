@@ -37,3 +37,42 @@ C:\Users\pedro\Desktop\Projetos\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPla
 C:\Users\pedro\Desktop\Projetos\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
 C:\Users\pedro\Desktop\Projetos\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Noticia\Index.cshtml.g.cs
 C:\Users\pedro\Desktop\Projetos\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Jogador\Index.cshtml.g.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\bin\Debug\netcoreapp3.1\EPlayers_ASPNETCore.exe
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\bin\Debug\netcoreapp3.1\EPlayers_ASPNETCore.deps.json
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\bin\Debug\netcoreapp3.1\EPlayers_ASPNETCore.runtimeconfig.json
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\bin\Debug\netcoreapp3.1\EPlayers_ASPNETCore.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\bin\Debug\netcoreapp3.1\EPlayers_ASPNETCore.dll
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\bin\Debug\netcoreapp3.1\EPlayers_ASPNETCore.pdb
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\bin\Debug\netcoreapp3.1\EPlayers_ASPNETCore.Views.dll
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\bin\Debug\netcoreapp3.1\EPlayers_ASPNETCore.Views.pdb
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.AssemblyInfo.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.RazorAssemblyInfo.cache
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.RazorAssemblyInfo.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.TagHelpers.input.cache
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.TagHelpers.output.cache
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.RazorCoreGenerate.cache
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Jogador\Index.cshtml.g.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Noticia\Index.cshtml.g.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.RazorTargetAssemblyInfo.cache
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.RazorTargetAssemblyInfo.cs
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.Views.pdb
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\staticwebassets\EPlayers_ASPNETCore.StaticWebAssets.Manifest.cache
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\staticwebassets\EPlayers_ASPNETCore.StaticWebAssets.xml
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.dll
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.pdb
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.genruntimeconfig.cache
+C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.csproj.CopyComplete

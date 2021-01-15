@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\EPlayers_ASPNETCore.csproj",
+  "FilePath": "c:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\EPlayers_ASPNETCore.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14387,53 +14387,53 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 800
+    "CSharpLanguageVersion": 900
   },
   "RootNamespace": "EPlayers_ASPNETCore",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\Views\\Noticia\\Index.cshtml",
+      "FilePath": "c:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\Views\\Noticia\\Index.cshtml",
       "TargetPath": "Views\\Noticia\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\Views\\Jogador\\Index.cshtml",
-      "TargetPath": "Views\\Jogador\\Index.cshtml",
+      "FilePath": "c:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\pedro\\Desktop\\Projetos\\EPlayers_ASPNETCore\\Views\\Equipe\\Index.cshtml",
+      "FilePath": "c:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\Views\\Jogador\\Index.cshtml",
+      "TargetPath": "Views\\Jogador\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\Views\\Equipe\\Index.cshtml",
       "TargetPath": "Views\\Equipe\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\FIC\\Desktop\\Pedro Okuma - Tarde\\EPlayers_ASPNETCore\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

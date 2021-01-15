@@ -14,6 +14,11 @@ namespace EPlayers_ASPNETCore.Controllers
         public IActionResult Index()
         {
             ViewBag.Jogadores = jogadorModel.ReadAll();
+
+            Equipe equipe = new Equipe();
+
+            ViewBag.Equipes = equipe.ReadAll();
+
             return View();
         }
 
@@ -22,10 +27,13 @@ namespace EPlayers_ASPNETCore.Controllers
         public IActionResult Cadastrar(IFormCollection form)
         {
             Jogador novoJogador = new Jogador();
+            
 
             novoJogador.IdJogador = Int32.Parse( form["IdJogador"] );
             novoJogador.Nome = form["Nome"];
-            novoJogador.IdEquipe = Int32.Parse( form["IdEquipe"] );
+            novoJogador.Email = form["Email"];
+            novoJogador.IdEquipe = Int32.Parse(form["IdEquipe"]);
+            novoJogador.Senha = form["Senha"];
 
             jogadorModel.Create(novoJogador);
             ViewBag.Jogadores = jogadorModel.ReadAll();
