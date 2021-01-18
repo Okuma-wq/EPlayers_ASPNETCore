@@ -24,7 +24,7 @@ namespace EPlayers_ASPNETCore.Controllers
         {
             Equipe novaEquipe = new Equipe();
 
-            novaEquipe.IdEquipe = Int32.Parse( form["IdEquipe"] );
+            
             novaEquipe.Nome = form["Nome"];
             
             //upload inicio

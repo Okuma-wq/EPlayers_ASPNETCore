@@ -29,7 +29,6 @@ namespace EPlayers_ASPNETCore.Controllers
             Jogador novoJogador = new Jogador();
             
 
-            novoJogador.IdJogador = Int32.Parse( form["IdJogador"] );
             novoJogador.Nome = form["Nome"];
             novoJogador.Email = form["Email"];
             novoJogador.IdEquipe = Int32.Parse(form["IdEquipe"]);

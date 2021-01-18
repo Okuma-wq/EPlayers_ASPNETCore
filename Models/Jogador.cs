@@ -27,6 +27,7 @@ namespace EPlayers_ASPNETCore.Models
 
         public void Create(Jogador j)
         {
+            j.IdJogador = ProximoCodigo();
             string[] linhas = { Prepare(j) };
             File.AppendAllLines(PATH, linhas);
         }
@@ -38,6 +39,22 @@ namespace EPlayers_ASPNETCore.Models
             linhas.RemoveAll(x => x.Split(";")[0] == idJogador.ToString());
             
             RewriteCSV(PATH, linhas);
+        }
+
+        public int ProximoCodigo(){
+
+            var jogadores = ReadAll();
+
+            if (jogadores.Count == 0)
+            {
+                return 1;
+            }
+            
+            var id = jogadores[jogadores.Count - 1].IdJogador;
+
+            id ++;
+             
+            return id;
         }
 
         public List<Jogador> ReadAll()

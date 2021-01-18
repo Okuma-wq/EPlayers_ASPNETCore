@@ -10,11 +10,6 @@
 <form method="POST" action='@Url.Action("Cadastrar")' class="cadastro">
 
     <div class="campo">
-        <label>ID Jogador</label>
-        <input type="text" name="IdJogador" />
-    </div>
-
-    <div class="campo">
         <label>ID Equipe</label>
         <select name="IdEquipe">
             @foreach (Equipe equipe in ViewBag.Equipes)

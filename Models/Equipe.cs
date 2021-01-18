@@ -22,8 +22,25 @@ namespace EPlayers_ASPNETCore.Models
 
         public void Create(Equipe e)
         {
+            e.IdEquipe = ProximoCodigo();
             string[] linhas = { Prepare(e) };
             File.AppendAllLines(PATH, linhas);
+        }
+
+        public int ProximoCodigo(){
+
+            var equipes = ReadAll();
+
+            if (equipes.Count == 0)
+            {
+                return 1;
+            }
+            
+            var id = equipes[equipes.Count - 1].IdEquipe;
+
+            id ++;
+             
+            return id;
         }
 
         public void Delete(int id)
