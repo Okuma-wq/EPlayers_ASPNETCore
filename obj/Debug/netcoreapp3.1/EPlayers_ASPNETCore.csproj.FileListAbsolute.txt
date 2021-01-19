@@ -76,3 +76,4 @@ C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreap
 C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.pdb
 C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.genruntimeconfig.cache
 C:\Users\FIC\Desktop\Pedro Okuma - Tarde\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\EPlayers_ASPNETCore.csproj.CopyComplete
+C:\Users\pedro\Desktop\Projetos\EPlayers_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
