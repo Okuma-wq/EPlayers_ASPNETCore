@@ -10,7 +10,7 @@ namespace EPlayers_ASPNETCore.Controllers
     {
         Jogador jogadorModel = new Jogador();
 
-        [Route("Listar")]
+        
         public IActionResult Index()
         {
             ViewBag.Jogadores = jogadorModel.ReadAll();
@@ -37,7 +37,7 @@ namespace EPlayers_ASPNETCore.Controllers
             jogadorModel.Create(novoJogador);
             ViewBag.Jogadores = jogadorModel.ReadAll();
 
-            return LocalRedirect("~/Jogador/Listar");
+            return LocalRedirect("/Jogador");
         }
 
         [Route("{id}")]
@@ -47,7 +47,7 @@ namespace EPlayers_ASPNETCore.Controllers
 
             ViewBag.Jogadores = jogadorModel.ReadAll();
             
-            return LocalRedirect("~/Jogador/Listar");
+            return LocalRedirect("/Jogador");
         }
     }
 }

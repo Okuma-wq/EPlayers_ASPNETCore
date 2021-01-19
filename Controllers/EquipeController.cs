@@ -6,12 +6,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EPlayers_ASPNETCore.Controllers
 {
+    
     [Route("Equipe")]
     public class EquipeController : Controller
     {
         Equipe equipeModel = new Equipe();
         
-        [Route("Listar")]
         public IActionResult Index()
         {
             ViewBag.Equipes = equipeModel.ReadAll();
@@ -56,7 +56,7 @@ namespace EPlayers_ASPNETCore.Controllers
             equipeModel.Create(novaEquipe);
             ViewBag.Equipes = equipeModel.ReadAll();
 
-            return LocalRedirect("~/Equipe/Listar");
+            return LocalRedirect("/Equipe");
         }
 
         
@@ -67,7 +67,7 @@ namespace EPlayers_ASPNETCore.Controllers
 
             ViewBag.Equipes = equipeModel.ReadAll();
             
-            return LocalRedirect("~/Equipe/Listar");
+            return LocalRedirect("/Equipe");
         }
 
     }
